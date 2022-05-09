@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+
 header {
     height: 80px;
     background-image: url('../img/pattern.png');
@@ -11,21 +13,39 @@ header {
     background-color: steelblue;
 }
 
-#container {
+
+#container-svg {
     padding-top: 30px;
     height: 60px;
     width: 180px;
+}
+
+
+section {
+    margin-bottom: 20px;
 }
 
 h4, h5 {
     color: grey;
 }
 
+
 a {
     text-decoration: none;
     color: lightskyblue
 }
 
+
 figcaption {
     font-size:13px;
+}
+
+
+span {
+
+    background-color: yellow;
+}
+
+ul {
+    margin: 35px;
 }
