@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header {
     height: 80px;
@@ -14,4 +15,17 @@ header {
     padding-top: 30px;
     height: 60px;
     width: 180px;
+}
+
+h4, h5 {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    color: lightskyblue
+}
+
+figcaption {
+    font-size:13px;
 }
