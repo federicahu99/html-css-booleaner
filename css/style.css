@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    height: 80px;
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+    background-color: steelblue;
+}
+
+#container {
+    padding-top: 30px;
+    height: 60px;
+    width: 180px;
+}
