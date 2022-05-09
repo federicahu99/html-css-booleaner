@@ -47,5 +47,18 @@ span {
 }
 
 ul {
-    margin: 35px;
+    margin-left: 5%;
+    margin-top: 2%;
 }
+
+
+thead {
+    background-color: lightskyblue;
+    width: 20px;
+}
+
+tbody {
+    background-color: lightblue;
+}
+
+
